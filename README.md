@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EmotionalAlchemyGame
 
 🚀 **Project Overview**
@@ -59,3 +60,6 @@ This project uses a **Hybrid Guardian License**:
 Tracked by the Symbiote Ledger under Symbiote #001. Project metadata, contributions, and lifeform impact are logged via IPFS and optional chain notarization.
 
 ---
+=======
+# EmotionalAlchemyGame
+>>>>>>> 523d05708798d75fdd7b298ce76ff3afdce0c609
